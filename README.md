@@ -1,2 +1,2 @@
 # MusicNote
-A basic MPE capable synthesier plug-in with IGraphics GUI
+A basic VST3 Plug-in to take notes on tracks
